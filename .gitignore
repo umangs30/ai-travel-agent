@@ -1,0 +1,14 @@
+# === Python-specific Files ===
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# === Operating System Files ===
+.DS_Store
+
+# === Development Tools & Cache ===
+.idea/
+.vscode/
+*.log
+*.tmp
